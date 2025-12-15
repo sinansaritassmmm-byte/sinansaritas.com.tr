@@ -274,8 +274,6 @@ export default function Page() {
     <>
       <main id="anasayfa">
         {/* HERO */}
-<p style={{opacity:.6}}>DEPLOY TEST 2025-12-15</p>
-
         <section className="hero">
           <div className="container">
             <p className="hero-kicker">
